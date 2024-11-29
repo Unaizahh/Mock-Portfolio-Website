@@ -1,0 +1,89 @@
+/* STYLE SECTIONING TAGS */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+main {
+  margin-top:0%;
+  margin-bottom:0%;
+  margin-left:20%;
+  margin-right:20%;
+}
+body {
+ background-color: #DDDBF1; 
+ text-align: center;
+}
+
+h1 {
+  color: #3C4F76;
+  text-align: center;
+  font-family: "Monaco", monospace;*/
+  font-size: 45px;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+h2 {
+  color: #383F51;
+  text-align: center;
+  font-family: "Monaco", monospace;
+  padding-top:2em;
+}
+
+li {
+  color: #3C4F76;
+  text-align: center;
+  font-family: "Monaco", monospace;
+}
+
+/* STYLE TEXT */
+
+p {
+  color: #383F51;
+  text-align: center;
+  font-size: 15px;
+  font-family: "Monaco", monospace;
+  padding:1em;
+}
+
+/* STYLE IMAGES */
+img {
+  border-radius: 10%;
+  border: 3px solid #3C4F76;
+  margin-bottom: 2em;
+}
+
+#front-image {
+   border-radius: 50%;
+ }
+
+#linkedin {
+  margin-top: 3em;
+  margin-bottom: 0.5em;
+}
+
+
+/* STYLE NAV BAR */
+
+ul {
+  list-style-type:None;
+  background-color: #383F51;
+  overflow: hidden;
+  padding:1em;
+}
+
+li {
+  display: inline
+}
+
+li a {
+  text-decoration: none; 
+  color: #DDDBF1;
+  font-dash: 1.3em;
+  padding: 1em;
+}
+
+li a:hover {
+  background-color: #3C4F76;
+} 
